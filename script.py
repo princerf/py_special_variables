@@ -5,7 +5,7 @@ from __future__ import print_function
 import module1
 
 # Print where we are
-print(">>> It's script.py file")
+print("\n>>> It's script.py file")
 
 # Print how we executed the script
 if __name__ == '__main__':
